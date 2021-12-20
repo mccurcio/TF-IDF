@@ -1,3 +1,3 @@
-# first-look-ml
+# TF-IDF
 
-This work includes machine learning / tfidf vectorizers
+This work includes machine learning
